@@ -1,4 +1,4 @@
-package aquives_txt;
+package txt_files;
 
 import java.io.*;
 
