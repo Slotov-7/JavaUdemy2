@@ -5,7 +5,7 @@ import model.exceptions.AccountException;
 
 import java.util.Scanner;
 
-public class Program {
+public class ProgramAccount {
     public static void main(String[] args) {
 
         int number;
