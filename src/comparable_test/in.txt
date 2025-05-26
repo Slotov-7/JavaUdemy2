@@ -1,0 +1,9 @@
+Maria,4300
+Alex,3100
+Bob,3100
+Anna,3500
+Alex Black,2450
+Eduardo,4390
+Willian,2900
+Marta,6100
+Alex Brown,5000
